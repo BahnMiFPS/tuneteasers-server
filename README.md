@@ -1,1 +1,1 @@
-# tuneteasers-server
+Thank you for using Tune Teasers
